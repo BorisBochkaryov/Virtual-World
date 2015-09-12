@@ -1,0 +1,15 @@
+﻿Build started 12.09.2015 13:22:10.
+     1>Project "G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\opengl\opengl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\opengl.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt opengl.cpp
+         opengl.cpp
+     1>g:\сибгути\ситняковская объектно ориентированное программирование\курсовые\компьютерный мир\opengl\town.h(93): warning C4309: 'argument' : truncation of constant value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\Debug\opengl.exe" /INCREMENTAL /NOLOGO opengl32.lib glut32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\Debug\opengl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\Debug\opengl.lib" /MACHINE:X86 Debug\opengl.obj
+         Debug\stdafx.obj
+         opengl.vcxproj -> G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\Debug\opengl.exe
+     1>Done Building Project "G:\СибГУТИ\Ситняковская Объектно Ориентированное Программирование\Курсовые\Компьютерный мир\opengl\opengl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.67
